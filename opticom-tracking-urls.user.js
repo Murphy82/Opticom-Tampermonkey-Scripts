@@ -7,6 +7,8 @@
 // @match        *://*.opticom-inc.com/shipment-notification/ship-file-report*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=opticom-inc.com
 // @grant        none
+// @updateURL    https://github.com/Murphy82/Opticom-Tampermonkey-Scripts/raw/refs/heads/main/opticom-tracking-urls.user.js
+// @downloadURL  https://github.com/Murphy82/Opticom-Tampermonkey-Scripts/raw/refs/heads/main/opticom-tracking-urls.user.js
 // ==/UserScript==
 
 function getTrackingUrl(trackingNum) {

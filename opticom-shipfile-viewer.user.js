@@ -7,6 +7,8 @@
 // @match        *://*.opticom-inc.com/shipment-notification/viewshipfile/?id=*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=opticom-inc.com
 // @grant        none
+// @updateURL    https://github.com/Murphy82/Opticom-Tampermonkey-Scripts/raw/refs/heads/main/opticom-shipfile-viewer.user.js
+// @downloadURL  https://github.com/Murphy82/Opticom-Tampermonkey-Scripts/raw/refs/heads/main/opticom-shipfile-viewer.user.js
 // ==/UserScript==
 
 function getShipFileID() {
