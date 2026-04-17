@@ -1,13 +1,15 @@
 // ==UserScript==
 // @name         Opticom Faster Scanning
 // @namespace    https://ohlinis.me/
-// @version      1.0.1
+// @version      2026-04-17
 // @description  Intercepts and replaces the replacement-ordering minified script to fix barcode errors when scanning fast
 // @author       Ohlin Arellano
 // @match        *://*.opticom-inc.com/replacement-ordering/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=opticom-inc.com
 // @grant        none
 // @run-at       document-start
+// @updateURL    https://github.com/Murphy82/Opticom-Tampermonkey-Scripts/raw/refs/heads/main/opticom-faster-scanning.user.js
+// @downloadURL  https://github.com/Murphy82/Opticom-Tampermonkey-Scripts/raw/refs/heads/main/opticom-faster-scanning.user.js
 // ==/UserScript==
 
 (function() {
